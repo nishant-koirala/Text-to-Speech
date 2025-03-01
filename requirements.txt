@@ -1,0 +1,6 @@
+Flask
+PyPDF2
+pyttsx3
+gTTS
+werkzeug
+#pip install -r requirements.txt
